@@ -1,5 +1,6 @@
-# README #
-# Learning Git
+# README 
+
+Hello world, I love using git!
 
 Important steps for git workflow:
 
