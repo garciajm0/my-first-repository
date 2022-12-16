@@ -1,6 +1,6 @@
 # README 
 
-Hello world, I love using git!
+Hello world, I love git!
 
 Important steps for git workflow:
 
